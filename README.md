@@ -16,6 +16,6 @@ You can install `mpi4py` using `pip`:
 python -m pip install mpi4py
 ```` 
 
-###Usage
+### Usage
 ```bash
-mpirun -np <number_of_processes> python kmeans.py
+mpirun -np <number_of_processes> python parallelkmeans.py
