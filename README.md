@@ -14,7 +14,7 @@ You can install `mpi4py` using `pip`:
 
 ```bash
 python -m pip install mpi4py
-`\``` 
+```` 
 
 ###Usage
 ```bash
