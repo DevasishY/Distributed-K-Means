@@ -8,3 +8,13 @@ Before running the code, ensure you have the following installed:
 - **Python**: Version 3.x
 - **mpi4py**: Python bindings for MPI
 
+### Installing `mpi4py`
+
+You can install `mpi4py` using `pip`:
+
+```bash
+pip install mpi4py
+
+###Usage
+```bash
+mpirun -np <number_of_processes> python kmeans.py
