@@ -13,7 +13,8 @@ Before running the code, ensure you have the following installed:
 You can install `mpi4py` using `pip`:
 
 ```bash
-pip install mpi4py
+python -m pip install mpi4py
+`\``` 
 
 ###Usage
 ```bash
